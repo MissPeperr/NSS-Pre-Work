@@ -11,7 +11,7 @@
 
     > They're going to ask questions about it though, and it's okay!
 
-- We're also encouraging the "long way" to concatenate.
+- We're also encouraging string concatenation at this stage.
 - Not every student is going through the Foundations Pre-Work at the same pace.
 - Not every student might have gone over or completed the part of the Foundations Pre-Work course that we're live-coding that evening. (And that's okay!)
 - Let them ask as many questions as they'd like, (and encourage them to do so)! 😊
