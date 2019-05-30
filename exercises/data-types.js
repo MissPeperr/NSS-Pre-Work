@@ -44,4 +44,5 @@ const theRock = {
 
   // 16. Add a property of 'eyeColor', then log it to the console.
 
-  // 17. Loop over your array of hobbies, and print each one to the console.
+  // 17. Loops over your array of hobbies, and print each one to the console.
+ 

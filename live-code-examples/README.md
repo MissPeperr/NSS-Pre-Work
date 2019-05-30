@@ -7,7 +7,23 @@
     > Try to keep it as basic as possible!
 
 - We do encourage the use of `var` at this stage. Right now, it's the easiest for them to be able to do the "simple" things in JavaScript. `let` and `const`
- would cause unnecessary confusion, but will be introduced later in the Foundations course and in the course itself.
+ would cause unnecessary confusion, but will be introduced later in the Foundations course and in the cirriculum itself.
+
+    > They're going to ask questions about it though, and it's okay!
+
+- We're also encouraging the "long way" to concatenate.
 - Not every student is going through the Foundations Pre-Work at the same pace.
 - Not every student might have gone over or completed the part of the Foundations Pre-Work course that we're live-coding that evening. (And that's okay!)
 - Let them ask as many questions as they'd like, (and encourage them to do so)! 😊
+
+## Live-Code Examples
+
+- [Data Types](./data-types.js)
+
+    > Variables, Strings, Numbers, Booleans, Arrays, Objects, and Loops
+
+- [Functions](./functions.js)
+
+    > Introduce them to functions by building sandwiches!
+
+-
