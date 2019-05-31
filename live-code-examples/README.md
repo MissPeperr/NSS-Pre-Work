@@ -20,7 +20,11 @@
 
 - [Data Types](./data-types.js)
 
-    > Variables, Strings, Numbers, Booleans, Arrays, Objects, and Loops
+    > General overview of variables, strings, numbers, booleans, arrays, objects, and loops
+
+- [Arrays](./arrays.js)
+
+    > Dive a little deeper into arrays.
 
 - [Functions](./functions.js)
 
