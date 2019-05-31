@@ -13,3 +13,5 @@ A session starts with introducing yourself (and if you're an alumni, let them kn
 > Sometimes it's hard for students to speak up, so make sure they all know what they would be going over if they _don't_ want to do what another student suggests.
 
 After the subject has been decided, head to the [Live Code Examples](./live-code-examples) and find the corresponding example to live-code!
+
+> Feel free to use whatever **online** text editor of your choosing. Repl.it or JSFiddle are usually a go-to.

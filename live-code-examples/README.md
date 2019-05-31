@@ -24,6 +24,12 @@
 
 - [Functions](./functions.js)
 
-    > Introduce them to functions by building sandwiches!
+    > Introduce functions by building sandwiches!
 
--
+- [Intro to the DOM](./Intro-To-DOM/)
+
+    > Introduce the DOM using `.querySelector` or `.getElementById`, `.createElement`, `.innerHTML` or `.textContent`, and `.appendChild`.
+
+- [Event Listenters](./Event-Listeners)
+
+    > Introduce event listeners using inputs and click events.
