@@ -1,8 +1,9 @@
 # JavaScript Exercises
 All of the answers to the exercises are located in the [Answers](./answers) directory.
 
-### Exercises:
+## Exercises:
 - [Data Types](./data-types.js)
+- [Arrays](./arrays.js)
 - [Functions](./functions.js)
 - [Intro to DOM](./Intro-To-DOM/)
 - [Event Listeners](./Event-Listeners/)
