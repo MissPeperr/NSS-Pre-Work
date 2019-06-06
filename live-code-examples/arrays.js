@@ -1,12 +1,16 @@
 ///// ARRAYS /////
 
-//// What are they? ////
+/*
+    What are they?
+*/
 // Arrays are collections of data stored in order. You can put anything you want inside an array.
-// Create an array with a bunch of different data types!
+// Create an array with a bunch of different data types:
 
 
 
-//// How do I access the data inside of the array? ////
+/*
+    How do I access the data inside of the array?
+*/
 // We'll access items in an array by their index, or their place in line. Arrays are zero-indexed, which means we start counting at 0 instead of 1.
 
 var gradesArray = [97, 55, 62, 82, 79, 91, 74, 86];
@@ -17,7 +21,10 @@ var gradesArray = [97, 55, 62, 82, 79, 91, 74, 86];
 // You can find out how many items are in an array with the .length property. (We won't use this very much right now, but it'll come in very handy later when we cover loops.)
 
 
-//// Can we add more data into an array? ////
+
+/*
+    Can we add more data into an array?
+*/
 // We can add items to an array with the .push() method.
 // Add a grade to the gradesArray:
 
