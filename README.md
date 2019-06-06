@@ -18,9 +18,9 @@ After the subject has been decided, head to the [Live Code Examples](./live-code
 
 There are many ways a pre-work session can be ran, it's really just a preference/what the students want. It's important that students get this in-person instruction from us, so as long as you're live-coding something the students will appreciate it. You can:
 
-    - Live-code a little bit at a time, and then assign an exercise, live-code a little more, assign an exercise, etc.
-    - Live-code the entire subject, and then assign the exercise
-    - Live-code the entire subject, but it runs all the way until 7
-    - Live-code the entire subject, and have them work on their pre-work
-    - Live-code the entire subject, and just answer questions about NSS, pre-work, etc.
-    - However you'd like to run it, these are merely suggestions 😊
+- Live-code a little bit at a time, and then assign an exercise, live-code a little more, assign an exercise, etc.
+- Live-code the entire subject, and then assign the exercise
+- Live-code the entire subject, but it runs all the way until 7
+- Live-code the entire subject, and have them work on their pre-work
+- Live-code the entire subject, and just answer questions about NSS, pre-work, etc.
+- However you'd like to run it, these are merely suggestions 😊
