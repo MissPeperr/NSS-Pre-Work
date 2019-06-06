@@ -22,6 +22,14 @@
 
 
 
+/*
+    Can we add more properties (key-value-pairs) to objects?
+*/
+// Let's add a grade to our student:
+// HINT: How do you assign data to a variable?
+
+
+
 // We can also have arrays of objects! Aaah!
 // Let's create an array, that has all of our objects that we created inside:
 
