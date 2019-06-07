@@ -32,20 +32,27 @@ console.log(foodArray);
 
 // 6. Loop through that array and print each food to the console.
 
-// This is a for loop! It will run any code between the curly brackets as many times as we tell it to. The stuff inside the parentheses tells the loop how we want it to run.
-// - The first statement in the parentheses (var i = 0) tells the loop we want it to start its counter at 0. This can be any number!
-// - The second statement in the parentheses (i < foodArray.length) tells the loop when we want it to stop. The loop will run as long as this condition is false and stop as soon as this condition is true. In this case, we want it to run as long as the counter (i) is less than the number of items in the foodArray array. In other words, we want it to run for each item in the food array and then stop.
-// The second statement (i++) tells us how we want our counter to count. In this case, we want our counter to increase itself by one each time. i++ is the same as saying i = i + 1. Every time the loop runs, i will increase by one.
-// Cool, now what's happening inside the array? First, we log our counter variable to the console so we can watch it count. Next, we use our counter variable to reference values in our foodArray array. On the first pass of the loop, i is 0. We can see it becasue we console logged it, and because that was the first thing we put in those parentheses! So, foodArray[i] is the same thing as writing foodArray[0], i.e. the first item in the Array ("Sushi").
+
+/*
+    This is a for loop! It will run any code between the curly brackets as many times as we tell it to. The stuff inside the parentheses tells the loop how we want it to run.
+        - The first statement in the parentheses (var i = 0) tells the loop we want it to start its counter at 0. This can be any number!
+        - The second statement in the parentheses (i < foodArray.length) tells the loop when we want it to stop. The loop will run as long as this condition is true and stop as soon as this condition is false. In this case, we want it to run as long as the counter (i) is less than the number of items in the foodArray array. In other words, we want it to run for each item in the food array and then stop.
+        - The third statement (i++) tells us how we want our counter to count. In this case, we want our counter to increase itself by one each time. i++ is the same as saying i = i + 1. Every time the loop runs, i will increase by one.
+    Cool, now what's happening inside the array?
+        - First, we log our counter variable to the console so we can watch it count.
+        - Next, we use our counter variable to reference values in our foodArray array. On the first pass of the loop, i is 0. We can see it becasue we console logged it, and because that was the first thing we put in those parentheses! So, foodArray[i] is the same thing as writing foodArray[0], i.e. the first item in the Array ("Sushi").
+*/
 for(var i = 0; i < foodArray.length; i++){
   console.log(i);
   console.log(foodArray[i]);
 }
 
 // 7. Loop through the array again, but this time check and see if the current food is "Noodles". If so, log "HECK YEAH! NOODLES!" to the console. If not, log "But have you considered noodles?" to the console.
-// Our old friend the foor loop! This time, every time the loop runs, we check to see if a condition is true with an if/else statement
-// THE IF STATEMENT: This almost reads like English! If the expression inside the parentheses evaluates to true, the code between the first curly brackets will run. If it evaluates to false, it will drop down to the next set of curly brackets and run that code instead.
-// OUR CONDITION: In this example, we want to see if the current item we're looping over in the food array (foodArray[j]) is equal to the string "Noodles"
+/*
+   Our old friend the foor loop! This time, every time the loop runs, we check to see if a condition is true with an if/else statement
+      THE IF STATEMENT: This almost reads like English! If the expression inside the parentheses evaluates to true, the code between the first curly brackets will run. If it evaluates to false, it will drop down to the next set of curly brackets and run that code instead.
+      OUR CONDITION: In this example, we want to see IF the current item we're looping over in the food array (foodArray[j]) is equal to the string "Noodles"
+*/
 for(var j = 0; j < foodArray.length; j++){
   if(foodArray[j] === "Noodles"){
     console.log("HECK YEAH!! NOODLES!")

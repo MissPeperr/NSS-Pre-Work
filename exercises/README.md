@@ -6,6 +6,6 @@ All of the answers to the exercises are located in the [Answers](./answers) dire
 ## Exercises:
 - [Data Types](./data-types.js)
 - [Arrays](./arrays.js)
-- [Functions](./functions.js)
+- [Objects](./objects.js)
 - [Intro to DOM](./Intro-To-DOM/)
 - [Event Listeners](./Event-Listeners/)
