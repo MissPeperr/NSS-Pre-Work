@@ -12,8 +12,6 @@ Typically we ask the students the day before what they would like to cover at th
 
 A session starts with introducing yourself (and if you're an alumni, let them know! 😊). You may ask them again if there's anything specific they'd like to cover and if what they want to cover is okay with everyone else that's present. Or you can live-code the intended subject for the session.
 
-After the subject has been decided, head to the [Live Code Examples](./live-code-examples) and find the corresponding example to live-code!
+After the subject has been decided, head to the [Live Code Examples](./live-code-examples) and find the corresponding example to live-code! It's important that students get this in-person instruction from us, so as long as you're live-coding *something* the students will appreciate it. The goal is to teach a little, then give them an exercise, teach some more, give another exercise, etc.
 
 > Feel free to use whatever **online** text editor of your choosing. Repl.it or JSFiddle are usually a go-to.
-
-It's important that students get this in-person instruction from us, so as long as you're live-coding something the students will appreciate it. The goal is to teach a little, then give them an exercise, teach some more, give another exercise, etc.
