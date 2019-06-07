@@ -26,7 +26,7 @@ If you're looking for exercises, head on over to the [Exercises](../exercises/) 
 
 - [Arrays](./arrays.js)
 
-    > Dive a little deeper into arrays.
+    > Dive a little deeper into arrays. (Has a lightning exercise)
 
 - [Objects](./objects.js)
 
