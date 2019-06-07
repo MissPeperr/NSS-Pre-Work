@@ -18,6 +18,8 @@
 
 ## Live-Code Examples
 
+If you're looking for exercises, head on over to the [Exercises](../exercises/) directory to find the corresponding exercise to the live-code.
+
 - [Data Types](./data-types.js)
 
     > General overview of variables, strings, numbers, booleans, arrays, objects, and loops
@@ -25,6 +27,10 @@
 - [Arrays](./arrays.js)
 
     > Dive a little deeper into arrays.
+
+- [Objects](./objects.js)
+
+    > Dive deeper into objects by creating objects with various different data-types, using dot notation, and creating and assigning new properties on an object.
 
 - [Functions](./functions.js)
 
@@ -34,6 +40,6 @@
 
     > Introduce the DOM using `.querySelector` or `.getElementById`, `.createElement`, `.innerHTML` or `.textContent`, and `.appendChild`.
 
-- [Event Listenters](./Event-Listeners)
+- [Event Listenters](./Event-Listeners/)
 
     > Introduce event listeners using inputs and click events.
